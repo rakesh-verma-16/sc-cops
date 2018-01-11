@@ -17,5 +17,5 @@ Jedi Learning and Information Sharing System
 
 3.) Set up a cron job to download the new files from DropBox every 2 minutes.
 
-*/2 * * * * /usr/bin/python /home/arpan/gitProjects/FolderSync/fileDownload.py
+*/2 * * * * /usr/bin/python /User/rakesh/Desktop/sc/DropBoxToLocal.py
 
