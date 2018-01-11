@@ -1,0 +1,6 @@
+TOKEN="zxN9qeTRtTAAAAAAAAAI3E6yIfinrAwpVpVDmxaeTjTydUPyUpdLzMEBl_UWgZUR"
+KEY="yr2000t2eldwlh5"
+SECRET="mvw3de1gtmf7x94"
+LOCAL="/Users/rakesh/Desktop/jedi"
+DROPBOX_FOLDER="/Apps"
+LOCAL_DOWNLOAD = "/Users/rakesh/Desktop/sc"
